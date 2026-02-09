@@ -33,7 +33,9 @@ https://leetcode.com/studyplan/top-sql-50/
 ---
 
 ## 📁 Repository Structure
+```
 SQL-50/
 ├── Easy/
 ├── Medium/
 └── Hard/
+```
